@@ -9,7 +9,7 @@ function AboutPage() {
             <SubHeader current='About Us'></SubHeader>
             <Row className="row-content">
                 <Col sm='6'>
-                    <h3>Our Mission</h3>
+                    <h3>Who We Are</h3>
                     <p> We present a curated database of the best campsites in the
                         vast woods and backcountry of the World Wide Web Wilderness.
                         We increase access to adventure for the public while
