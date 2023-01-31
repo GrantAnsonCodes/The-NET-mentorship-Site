@@ -6,7 +6,7 @@ import PartnersList from '../features/partners/PartnersList';
 function AboutPage() {
     return (  
         <Container>
-            <SubHeader current='About Us '></SubHeader>
+            <SubHeader current='About Us'></SubHeader>
             <Row className="row-content">
                 <Col sm='6'>
                     <h3>Who We Are</h3>
