@@ -10,14 +10,7 @@ function AboutPage() {
             <Row className="row-content">
                 <Col sm='6'>
                     <h3>Who We Are</h3>
-                    <p> We present a curated database of the best campsites in the
-                        vast woods and backcountry of the World Wide Web Wilderness.
-                        We increase access to adventure for the public while
-                        promoting safe and respectful use of resources. The expert
-                        wilderness trekkers on our staff personally verify each
-                        campsite to make sure that they are up to our standards. We
-                        also present a platform for campers to share reviews on
-                        campsites they have visited with each other.
+                    <p> This NET is a unique mentoring organization founded and run by young, minority professionals and leaders in the Boston area. The NET intends to take on a holistic approach to solving the achievement gap between inner-city students and their suburban counterparts. The achievement and opportunity gap is a phenomenon that is quite complex and multifaceted; school systems, mental fortitude, access to/awareness of opportunities, resources and guidance are just a few of the factors that contribute to this epidemic. In approaching this problem, our organization intends to help build a resilient, conscious mentality in students through a uniquely crafted curriculum that involves topics such as: economic empowerment, history (and its modern relevance), self-esteem, music, current events, etc. Through this curriculum coupled with building interest in STEM through programming and connecting students to resources in the Boston, we plan to build a feasible pipeline to success and obliterate achievement gap.
                     </p>
                 </Col>
                 <Col sm='6'>
@@ -25,14 +18,12 @@ function AboutPage() {
                         <CardHeader>
                             <CardBody>
                                 <dl className='row'>
-                                    <dt className='col-6'>Founded</dt>
-                                    <dd className='col-6'>February 3, 2016</dd>
-                                    <dt className='col-6'>No. of Campsites in 2019</dt>
-                                    <dd className='col-6'>563</dd>
-                                    <dt className='col-6'>No. of Reviews in 2019</dt>
-                                    <dd className='col-6'>4388</dd>
-                                    <dt className='col-6'>Employees</dt>
-                                    <dd className='col-6'>42</dd>
+                                    <dt className='col-6'>Age Range</dt>
+                                    <dd className='col-6'> Students grades 4th-7th (~ages 9-12)</dd>
+                                    <dt className='col-6'>Tentative Start Date:</dt>
+                                    <dd className='col-6'>Mid- 2023. Please check our site for updates</dd>
+                                    <dt className='col-6'>Meetings:</dt>
+                                    <dd className='col-6'>1 Saturday each month</dd>
                                 </dl>
                             </CardBody>
                         </CardHeader>

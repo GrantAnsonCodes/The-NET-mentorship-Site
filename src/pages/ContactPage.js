@@ -11,9 +11,9 @@ const ContactPage = () => {
             <Row className='row-content align-items-center'>
                 <Col sm='4'>
                     <h5>Our Address</h5>
-                    <address>1 Nucamp Way
+                    <address>42 Wallaby Way
                         <br />
-                        Seattle, WA 98001
+                        Roxbury, MA 02119
                         <br />
                         U.S.A.</address>
                 </Col>
@@ -23,7 +23,7 @@ const ContactPage = () => {
                         className='btn btn-link'
                         href='tel:+12065551234'
                     >
-                        <i className='fa fa-phone' /> 1-206-555-1234
+                        <i className='fa fa-phone' /> 281-330-8004
                     </a>
                     <br />
                     <a
@@ -31,7 +31,7 @@ const ContactPage = () => {
                         className='btn btn-link'
                         href='mailto:fakeemail@fakeemail.co'
                     >
-                        <i className='fa fa-envelope-o' /> campsites@nucamp.co
+                        <i className='fa fa-envelope-o' /> MikeJones!@swishahouse.org
                     </a>
                 </Col>
             </Row >
